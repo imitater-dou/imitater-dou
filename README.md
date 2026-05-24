@@ -20,6 +20,15 @@
       <img src="https://img.shields.io/badge/Gmail-ikun3.1415927%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
+
+  <br/>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
 
 ---
@@ -47,11 +56,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imitater-dou&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitater-dou&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
