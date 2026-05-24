@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+ADou.+AI+Algorithm+Engineer" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🚀+LLM+Inference+%26+Training+Infra+%7C+Open+Source+Contributor" alt="Profile Info"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi%2C+I'm+ADou.+AI+Algorithm+Engineer" alt="Hi"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=700&pause=100000&lines=🚀+LLM+Inference+%26+Training+Infra+%7C+Open+Source+Contributor" alt="Profile Info"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Currently focused on LLM Inference, Training Infrastructure & AI Systems.</strong>
@@ -14,6 +15,7 @@
     <a href="https://www.xiaohongshu.com/user/profile/69788ee900000000210051d7" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/小红书-ADou-FF0036?style=flat-square&logoColor=white" alt="小红书"/>
     </a>
+    &nbsp;
     <a href="mailto:ikun3.1415927@gmail.com" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Gmail-ikun3.1415927%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
@@ -50,5 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imitater-dou&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imitater-dou&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
